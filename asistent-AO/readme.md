@@ -51,6 +51,7 @@ Podmínkou uzavření smlouvy je, aby daná osoba ještě neměla s Českou pir�
 [program]: https://www.pirati.cz/program/start
 [forum]: https://forum.pirati.cz
 [redmine]: https://redmine.pirati.cz/
+[github]: https://github.com/pirati-cz
 
 ## Zasílání nabídek
 

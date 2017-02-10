@@ -1,4 +1,4 @@
-Záměr najmout Asistenta odborů pro administrativu
+Záměr najmout celostátní administrativní podporu
 ========================
 
 *Toto je projektový záměr, který administrativní odbor předkládá republikovému předsednictvu a republikovému výboru.*
@@ -6,48 +6,70 @@ Záměr najmout Asistenta odborů pro administrativu
 Shrnutí
 -------
 
-V rámci zlepšení fungování administrativního zázemí, zejména v  administrativním odboru a pomocně ve všech ostatních odborech a republikovém výboru navrhujeme provést výběrové řízení na **Asistenta odborů pro administrativu** a podepsat s ním smlouvu na poloviční úvazek. Maximální odměna asistenta bude 14 tis. Kč měsíčně.
+V rámci zlepšení fungování administrativního zázemí, zejména v  administrativním odboru a pomocně ve všech ostatních odborech a republikovém výboru a jako zástup v republikovém předsednictvu navrhujeme provést výběrové řízení na **celostátní administrativní podporu** a podepsat s vybraným uchazečem smlouvu na poloviční úvazek. Maximální odměna bude činit 14 615 Kč měsíčně s možností rozšíření v době voleb a v případě spokojenosti.
 
-Asistent odborů pro administrativu s působností pro celou Českou republiku bude odpovědný vedoucímu administrativního odboru, který zajišťuje administrativní agendu strany.
+Administrativní podpora s působností pro celou Českou republiku bude odpovědná vedoucímu administrativního odboru, který zajišťuje administrativní agendu strany.
 
 
-Potřeba projektu
+Potřeba záměru
 --------------
 
-Záměr zřídit pozici Asistenta odborů pro administrativu na návrh vedoucího administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa. Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli. Předpokládá se, že část čínností (viz [inzerát](readme.md)) bude do budoucna zautomatizováno, pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pracovní pozice.
+Záměr navrhl vedoucí administrativního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. 
+
+Klíčem pro úspěch ve volbách je mimo jiné bezproblémová a rychlá administrativa.  
  
-Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s asistententem pro administrativu (který měl být k dispozici republikovému předsednictvu, republikovému výboru a administrativnímu odboru). Avšak tohoto asistenta republikové předsednictvo převážně využívá naplno, případné volné kapacity stěží stačí pro potřeby republikového výboru a nezbývá tedy mnoho prostoru pro využití jeho služeb administrativním odborem. Asistent bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, kontrola retence členů, pomoc při správě technických systému v gesci AO, pomoc s administrativou oblastních sdružení). Jelikož dochází k ukončení pozice Krajského manažera v Praze, který měl na starosti i fyzický archív apod., přejde pod něj též část činností tohoto manažera. Bude financován z příslušné rozpočtové položky administrativního odboru. Předpokládaný rozsah práce je poloviční úvazek. Podmínky výběrového řízení budou vycházet z výběrového řízení na asistenta pro adminstrativu a provede jej vedoucí administrativního odboru. Vedoucí administrativního odboru navrhuje složení výběrové komise Martin Kučera, Vojtěch Pikal, Alex Mansurov, Bára Hrůzová.
+Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s asistententem pro administrativu (který měl být k dispozici republikovému předsednictvu, republikovému výboru a administrativnímu odboru). Avšak dosavadní činnost odváděná pro administrativní odbor je velmi malá a zejména se očekává, že daná osoba nebude schopna vykonávat tuto pozici z důvodu těhotenství a je třeba mít za ni zástupce. 
+
+Administrativní podpora bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, kontrola retence členů, pomoc při správě technických systému v gesci administrativního odboru, pomoc s administrativou oblastních sdružení), případně jako záskok republikovému předsednictvu. 
+
+Jelikož dochází k ukončení pozice krajského manažera v Praze, který měl na starosti i fyzický archiv apod., přejde pod něj též část činností tohoto manažera. Bude financován z příslušné rozpočtové položky administrativního odboru. 
+
+Předpokládaný rozsah práce je 20 hodin týdně s možností rozšíření dohodou až na 40 hodin týdně, skutečná poptávka se od tohoto rozsahu může lišit. Předpokládá se, že část čínností (viz [inzerát](readme.md)) bude do budoucna zautomatizováno, pak dojde k přehodnocení pracovních povinností, eventuálně přehodnocení potřeby pracovní pozice. Na druhou stranu v důsledku voleb a nárůstu agendy, pokud se strana dostane do sněmovny či dále porostee, může dojít i rozšíření rozsahu činnosti až na plné vytížení jednoho člověka.
+
+Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, vyloučení dobrovolníků, neprofesionální interní komunikaci a vytváření závislosti na jednom člověku, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli a naplno se mohli věnovat politice jako hlavnímu poslání Pirátů.
+
+Podmínky výběrového řízení vychází z výběrového řízení na asistenta pro adminstrativu a provede je vedoucí administrativního odboru. 
 
 Rozpočet projektu
 -----------------
 
-Střední roční náklady činí 132 tis. Kč (z rozpočtu administrativního odboru Pirátské strany) při měsíční smluvní odměně cca 9 tis. Kč v pevné složce (nárokovatelné poměrně vzhledem k rozsahu práce) a až 5 tis. Kč úkolové odměny (odhadována střední částka 2000 Kč). Jde tedy o podobný systém odměňování jako u celopražských Pirátských zastupitelů (viz [metodika][metodika]).
+### Výše odměny
 
-[metodika]: https://redmine.pirati.cz/projects/kspraha/wiki/Odm%C4%9B%C5%88ov%C3%A1n%C3%AD 
+Záměrem předsednictva je systematizovat odměňování, proto je odměna určena hodinovou sazbou s možností úkolových odměn a paušálem, díky kterému si koordinátor nemusí zapisovat každý telefonický hovor. Hodinová sazba byla určena tak, že je mírně vyšší než u krajských koordinátorů. Standardní složky odměny navrhujeme následující:
 
-Dopad na rozpočet 2016:
+* paušální odměna za pohotovost: 1500 Kč měsíčně (18 000 Kč ročně)
+* hodinová odměna: 97 Kč (= 8 115 Kč měsíčně, 97 388 Kč ročně) 
+* úkolová odměna: až 5 000 Kč měsíčně
+* **celkem maximálně** 9 615 Kč měsíčně + 5 000 Kč měsíčně úkolová odměna (ročně celkem 175 380 Kč)
+* **celkem středně** 9 615 Kč měsíčně + 3 000 Kč měsíčně úkolová odměna (ročně celkem 151 380 Kč)
 
-V roce 2016 při předpokladu nástupu ne dříve než 10. 1. 2017 tedy nebudou vyčerpány žádné rozpočtené prostředky z položky administrativního odboru. V roce 2017 jde o částku cca 190 tis. Kč, která bude hrazena z rozpočtu administrativníhho odboru Pirátské strany (viz níže). V prvním roce tedy nebudou vyčerpány všechny rozpočtené prostředky z položky administrativního odboru z důvodu zpoždění záměru. 
+Jednotlivé složky odměny jsou popsány v [návodu pro odměňované][navod]. Jde tedy systém odměňování použitý v navržené standardní (viz [metodice odměňování][metodika]). 
 
-Dlouhodobý výhled:
+Skutečná hodnota odměn může být vyšší i nižší, protože se odvíjí od skutečně odvedené práce. Za podmínek uvedených ve vnitřních předpisech může být schválena i odměna odměna za úkoly zadané nad rámec odhadnuté doby a mimořádná odměna v souladu s [podmínkami pro placené úkoly][podminky]. 
 
-Očekáváme, že asistent odborů pro administrativu bude pro Piráty pracovat dlouhodobě, při celoroční činnosti  se potom bude jednat o cca 190 tis. Kč. (maximální hodnota), jak je uvedeno níže:
+### Celkové náklady záměru
 
-Položka | Částka (tis. Kč)
---- | ----:
-**Náklady celkem**  | **173**
-– smluvní odměna asistenta pro administrativu |	  168
-– náklady na telefon	|	  5
-**Financování** | **173**
-– rozpočet administrativního odboru [212600004][podbor] (položka bude zřízena v rámci rozpočtu 2017) |	190
+Celkové odhadnuté náklady záměru činí cca 180 tis. Kč. Oproti odhadu středních nákladů je v tomto odhadu zahranuta též rezerva ve výši 20 %. Rezerva záměru zahrnuje kromě výše uvedených složek odměny i rezervu pro případ, že skutečná úkolová odměna bude vyšší než její střední odhad. Náklady na případný telefon netřeba uvažovat, neboť budou od roku 2017 hrazeny nově centrálně personálním odborem. 
 
-Skutečná hodnota odměn může být vyšší i nižší, protože se odvíjí od skutečně odvedené práce. Maximální hodnota odměny je 168 tis. Kč ročně + 5 tis. Kč ročně telefon + rezerva na nečekané související výdaje, což dává částku 190 tis. Kč ročně, kterou navrhujeme stanovit celkové náklady záměru za každý rok (odpovídá dané rozpočtové položce). Za podmínek uvedených ve vnitřních předpisech může být schválena i mimořádná odměna (např. při přesčasech či splnění mimořádně náročného úkolu, které by vedly k jednorázovému zvýšení odměny nad dohodnuté měsíční rozmezí).
-
-[podbor]: https://www.pirati.cz/fo/hospodareni2016/rozpocty/strana/212600004
-
-Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtové jednotce Česká pirátská strana ([§ 10 pravidel hospodaření][prah]), který se schvaluje na dobu neurčitou s náklady určenými měsíční odměnou. 
+Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtové jednotce Česká pirátská strana ([§ 10 pravidel hospodaření][prah]), který se schvaluje na dobu neurčitou s náklady určenými celkovou roční částkou. 
 
 [prah]: https://www.pirati.cz/rules/prah
+
+
+
+### Dopad na rozpočtový výhled
+
+Střední roční náklady činí cca 151 tis. Kč z rozpočtu administrativního odboru Pirátské strany. V návrhu rozpočtovém výhledu jsou tyto prostředky v provozních výdajích administrativního odboru, v případě potřeby může být tato položka navýšena z rezervy republikového předsednictva.
+
+
+[metodika]: https://redmine.pirati.cz/projects/po/wiki/odmenovani 
+[navod]: https://redmine.pirati.cz/projects/po/wiki/Navod-pro-odmenovane
+
+
+### Dopad na rozpočet 2017
+
+V roce 2017 při předpokladu nástupu ne dříve než 1. 2. 2017 budou odhadnuté náklady 138 tis. Kč z rozpočtu administrativního odboru. V návrhu rozpočtu na rok 2017 jsou tyto prostředky v provozních výdajích administrativního odboru, v případě potřeby může být tato položka navýšena z rezervy republikového předsednictva.  
+
 
 Harmonogram projektu
 --------------------
@@ -55,11 +77,11 @@ Harmonogram projektu
 * První týden – připomínkování podmínek výběrového řízení zakonečné potvrzením finální verze (rozeslání republikovému předsednictvu a republikovému výboru)
 * Druhý týden – schvalování v příslušných orgánech
 * Třetí týden – lhůta pro přihlašování
-* Čtvrtý týden – Hodnocení
+* Čtvrtý týden – hodnocení
 
 Výběrové řízení proběhne a smlouva bude uzavřena nejpozději do 1 měsíce od schválení usnesení všemi orgány.
 
-Výběrové řízení na asistenta odborů pro administrativu
+Výběrové řízení administrativní podporu
 ----------------
 
 Součástí záměru je jedno výběrové řízení nad 50 000 Kč.
@@ -74,32 +96,31 @@ Ve jmenované hodnotící komisi by měli být podle [§ 6 odst. 2 pravidel hosp
 
 Výběrové řízení se bude řídit následujícími dokumenty, které jsou přílohou tohoto záměru:
 
-* [Inzerát na asistenta odborů pro administrativu](readme.md)
+* [Inzerát na administrativní podporu](readme.md)
 * [Pravidla výběrového řízení](pravidla.md)
 
-Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly](https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md), přičemž smluvní typ bude určen podle požadavku vybraného uchazeče.
+Smlouva bude uzavřena prostřednictvím zadávacího listu podle [podmínek pro placené úkoly][podminky], přičemž smluvní typ bude určen podle požadavku vybraného uchazeče. Název pozice může být upraven po dohodě s republikovým předsednictvem.
 
+[podminky]: https://github.com/pirati-cz/sablony/blob/4b07ba675434ee634c527909d537122264cc712e/ukoly/podminky/podminky.md
 
 Schvalování záměru
 ------------------
-
-### Celostátní úroveň
 
 #### Návrh usnesení republikového předsednictva
 
 Republikové předsednictvo
 
-1. **souhlasí** se záměrem najmout asistenta odborů pro administrativu podle předložených dokumentů,
-2. **souhlasí** s náklady na tento záměr z rozpočtu administrativního odboru do 190 tis. Kč ročně,
+1. **souhlasí** se záměrem najmout administrativní podporu podle předložených dokumentů,
+2. **souhlasí** s náklady na tento záměr z rozpočtu administrativního odboru do 180 tis. Kč ročně,
 3. **ukládá** administrativnímu odboru předložit záměr republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *v případě schválení republikovým výborem* mu ukládá záměr realizovat.
 
 #### Návrh usnesení republikového výboru
 
 Republikový výbor
 
-1. **bere na vědomí** předložené dokumenty k záměru najmout asistenta odborů pro administrativu,
-2. **souhlasí** se záměrem najmout asistenta odborů pro administrativu,
-3. **souhlasí** s náklady na tento záměr ve výši 190 tis. Kč ročně.
+1. **bere na vědomí** předložené dokumenty k záměru najmout administrativní podporu,
+2. **souhlasí** se záměrem najmout administrativní podporu,
+3. **souhlasí** s náklady na tento záměr ve výši 180 tis. Kč ročně.
 
 
 ---
