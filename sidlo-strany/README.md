@@ -65,9 +65,9 @@ V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak
 
 Nabídku nám prosím zašlete do 13. března 2017, adresu michal.jokes@pirati.cz, kopii potom na info@pirati.cz, do tří dnů se Vám ozveme ohledně výsledku výběrového řízení nebo dalšího postupu.
 
-S pozdravem
-Michal Jokeš
-Krajský koordinátor v Praze
+S pozdravem  
+Michal Jokeš  
+Krajský koordinátor v Praze  
 michal.jokes@pirati.cz, tel. 
 
 
