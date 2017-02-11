@@ -10,7 +10,7 @@ Ahoj!
 
 Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe odpovídajcí našim představám a potřebám rozrůstající se strany. Hledáme tedy **nové kancelářské prostory o výměře aspoň 50 m2**, kde bychom mohli spřádat plány na parlamentní volby. Ideálně někde v širším centru, kde “budeme vidět”. 
 
-![Krajské sdružení Praha](obr.jpg)
+![Krajské sdružení Praha](ultimate-office-spaces-8-638.jpg)
 
 ## Využití prostor:
 * Sídlo České Pirátské strany
