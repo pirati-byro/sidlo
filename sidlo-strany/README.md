@@ -43,8 +43,7 @@ V nabídce nám prosím zašli v jednom PDF dokumentu popis prostor tak aby je �
 
    Kritérium | počet bodů  | poznámka
    --------- | --------- | ------:
-   Vzdálenost od nejbližší stanice
-   Metro | 20 | za každých 30m bod dolů
+   Vzdálenost od nejbližší stanice Metro | 20 | za každých 30m bod dolů
    Tramvaj | 10 | za každých 30m bod dolů
    Bus | 5  | za každých 30m bod dolů
    Dojížděcí vzdálenost z MHMP | 10  |  za každé 3 min 1 bod dolů
