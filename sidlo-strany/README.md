@@ -50,9 +50,9 @@ V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak
    Tramvaj | 10 | za každých 30m bod dolů
    Bus | 5 | za každých 30m bod dolů
    Dojížděcí vzdálenost z MHMP | 10 | za každé 3 min 1 bod dolů
-   Skladové prostory v pěší dostupnosti do 5 min za rozumnou cenu | 10 |
+   Skladové prostory v pěší dostupnosti do 5 min za rozumnou cenu | 10 | -
    Parkování v blízkosti | 5 | -1 bod za 1 min pěší vzdálenosti
-   Možnost zajet autem nakládat/vykládat do prostoru/skladu | 10 | 
+   Možnost zajet autem nakládat/vykládat do prostoru/skladu | 10 | -
    Škálovatelnost (možnost měnit pronajatou plochu na stejné adrese, přepážky - více místností) | 15 | -
    Sucho, teplo, vnitřní komfort, reprezentativnost, okna, pracovní podmínky | 30 |(30 b jsou A kanceláře, 15 B kanceláře, 0 C kanceláře) 
    Možnost dělat schůze/kapacita zasedačky (35 lidí)| 20 | -
