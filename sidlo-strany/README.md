@@ -1,12 +1,13 @@
-Česká pirátská strana
-krajské sdružení Praha
-krasjké sdružení Středočeský kraj
+Česká pirátská strana  
+krajské sdružení Praha  
+krasjké sdružení Středočeský kraj  
 republikové předsednictvo
 
 Výběrové řízení na prostory pro sídlo strany - Pirátské centrum
 ========================
 
 Ahoj!
+
 Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe odpovídajcí našim představám a potřebám rozrůstající se strany. Hledáme tedy **nové kancelářské prostory o výměře aspoň 50 m2**, kde bychom mohli spřádat plány na parlamentní volby. Ideálně někde v širším centru, kde “budeme vidět”. 
 
 ## Využití prostor:
@@ -39,32 +40,32 @@ Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe
 * Skladové prostory v blízkosti výhodou
 
 ## Zasílání nabídek
-V nabídce nám prosím zašli v jednom PDF dokumentu popis prostor tak aby je šlo hodnotit dle následujících kritérií:
+V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak aby je šlo hodnotit dle následujících kritérií:
 
-   Kritérium | počet bodů  | poznámka
-   --------- | --------- | ------ :
+   Kritérium | počet bodů | poznámka
+   --------- | --------- | ------:
    Vzdálenost od nejbližší stanice Metro | 20 | za každých 30m bod dolů
    Tramvaj | 10 | za každých 30m bod dolů
-   Bus | 5  | za každých 30m bod dolů
-   Dojížděcí vzdálenost z MHMP | 10  |  za každé 3 min 1 bod dolů
-   Skladové prostory v pěší dostupnosti do 5 min za rozumnou cenu | 10  |
-   Parkování v blízkosti | 5 |  -1 bod za 1 min pěší vzdálenosti
+   Bus | 5 | za každých 30m bod dolů
+   Dojížděcí vzdálenost z MHMP | 10 | za každé 3 min 1 bod dolů
+   Skladové prostory v pěší dostupnosti do 5 min za rozumnou cenu | 10 |
+   Parkování v blízkosti | 5 | -1 bod za 1 min pěší vzdálenosti
    Možnost zajet autem nakládat/vykládat do prostoru/skladu | 10 | 
-   Škálovatelnost (možnost měnit pronajatou plochu na stejné adrese, přepážky - více místností) |  15 | -
+   Škálovatelnost (možnost měnit pronajatou plochu na stejné adrese, přepážky - více místností) | 15 | -
    Sucho, teplo, vnitřní komfort, reprezentativnost, okna, pracovní podmínky | 30 |(30 b jsou A kanceláře, 15 B kanceláře, 0 C kanceláře) 
    Možnost dělat schůze/kapacita zasedačky (35 lidí)| 20 | -
-   Vrátnice | 5  | (24/7 je max)
-   Frekventované místo se zásahem na kolemjdoucí (zahrnuje možnost viditelné vnější reklamy) |  10 | (počet osob shlédnuvší reklamu, max. je cca Staromák, min. někde, kde nikdo nechodí)
-   Soužití s okolím  |10 | (zahrnuje možnost být hlučnější, třeba při promítání uměleckých děl, možnost si zahulit, spolupráci s dalšími nájemníky)
-   Cena za m2 administrativních prostor ( /využitelná administrativní plocha) | 50  | (Cena = celková cena pronájmu prostoru + příslušenství, záchod apod.)
-   Vysvětlit neznalému, kde to je |  5b | dobrá a srozumitelná adresa, všeobecné známé orientační body
+   Vrátnice | 5 | (24/7 je max)
+   Frekventované místo se zásahem na kolemjdoucí (zahrnuje možnost viditelné vnější reklamy) | 10 | (počet osob shlédnuvší reklamu, max. je cca Staromák, min. někde, kde nikdo nechodí)
+   Soužití s okolím  | 10 | (zahrnuje možnost být hlučnější, třeba při promítání uměleckých děl, možnost si zahulit, spolupráci s dalšími nájemníky)
+   Cena za m2 administrativních prostor ( /využitelná administrativní plocha) | 50 | (Cena = celková cena pronájmu prostoru + příslušenství, záchod apod.)
+   Vysvětlit neznalému, kde to je | 5b | dobrá a srozumitelná adresa, všeobecné známé orientační body
 
-Podrobnosti o výběrovém řízení si přečti v pravidlech výběrového řízení. Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
-Poptávaná právní vztah je nájem/podníjem?
-Nabídku nám prosím zašli do 13. března 2017, do tří dnů se ti ozveme ohledně výsledku výběrového řízení nebo dalšího postupu. Nabídku pošli na adresu tobias.esner@pirati.cz, kopii potom na info@pirati.cz.
+
+Nabídku nám prosím zašlete do 13. března 2017, adresu michal.jokes@pirati.cz, kopii potom na info@pirati.cz, do tří dnů se Vám ozveme ohledně výsledku výběrového řízení nebo dalšího postupu.
+
 S pozdravem
-Bc. Jan Loužek
-zveřejňovač Pirátů v Praze
-jan.louzek@pirati.cz, tel. 608 213 119
+Michal Jokeš
+Krajský koordinátor v Praze
+michal.jokes@pirati.cz, tel. 
 
 
