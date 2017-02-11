@@ -42,7 +42,7 @@ Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe
 V nabídce nám prosím zašli v jednom PDF dokumentu popis prostor tak aby je šlo hodnotit dle následujících kritérií:
 
    Kritérium | počet bodů  | poznámka
-   --------- | --------- | ------:
+   --------- | --------- | ------ :
    Vzdálenost od nejbližší stanice Metro | 20 | za každých 30m bod dolů
    Tramvaj | 10 | za každých 30m bod dolů
    Bus | 5  | za každých 30m bod dolů
@@ -51,13 +51,13 @@ V nabídce nám prosím zašli v jednom PDF dokumentu popis prostor tak aby je �
    Parkování v blízkosti | 5 |  -1 bod za 1 min pěší vzdálenosti
    Možnost zajet autem nakládat/vykládat do prostoru/skladu | 10 | 
    Škálovatelnost (možnost měnit pronajatou plochu na stejné adrese, přepážky - více místností) |  15 | -
-Sucho, teplo, vnitřní komfort, reprezentativnost, okna, pracovní podmínky | 30 |(30 b jsou A kanceláře, 15 B kanceláře, 0 C kanceláře) 
+   Sucho, teplo, vnitřní komfort, reprezentativnost, okna, pracovní podmínky | 30 |(30 b jsou A kanceláře, 15 B kanceláře, 0 C kanceláře) 
    Možnost dělat schůze/kapacita zasedačky (35 lidí)| 20 | -
    Vrátnice | 5  | (24/7 je max)
    Frekventované místo se zásahem na kolemjdoucí (zahrnuje možnost viditelné vnější reklamy) |  10 | (počet osob shlédnuvší reklamu, max. je cca Staromák, min. někde, kde nikdo nechodí)
    Soužití s okolím  |10 | (zahrnuje možnost být hlučnější, třeba při promítání uměleckých děl, možnost si zahulit, spolupráci s dalšími nájemníky)
    Cena za m2 administrativních prostor ( /využitelná administrativní plocha) | 50  | (Cena = celková cena pronájmu prostoru + příslušenství, záchod apod.)
-   Vysvětlit neznalému, kde to je 5b - dobrá a srozumitelná adresa, všeobecné známé orientační body
+   Vysvětlit neznalému, kde to je |  5b | dobrá a srozumitelná adresa, všeobecné známé orientační body
 
 Podrobnosti o výběrovém řízení si přečti v pravidlech výběrového řízení. Pokud máš zájem o upřesnění informací, neváhej se na mne obrátit emailem či telefonicky.
 Poptávaná právní vztah je nájem/podníjem?
