@@ -51,7 +51,7 @@ V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak
    Bus | 5 | za každých 30m bod dolů
    Dojížděcí vzdálenost z MHMP | 10 | za každé 3 min 1 bod dolů
    Skladové prostory v pěší dostupnosti do 5 min za rozumnou cenu | 10 | -
-   Parkování v blízkosti | 5 | -1 bod za 1 min pěší vzdálenosti
+   Parkování v blízkosti | 5 | za 1 min pěší vzdálenosti bod dolů
    Možnost zajet autem nakládat/vykládat do prostoru/skladu | 10 | -
    Škálovatelnost (možnost měnit pronajatou plochu na stejné adrese, přepážky - více místností) | 15 | -
    Sucho, teplo, vnitřní komfort, reprezentativnost, okna, pracovní podmínky | 30 |(30 b jsou A kanceláře, 15 B kanceláře, 0 C kanceláře) 
@@ -60,7 +60,7 @@ V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak
    Frekventované místo se zásahem na kolemjdoucí (zahrnuje možnost viditelné vnější reklamy) | 10 | (počet osob shlédnuvší reklamu, max. je cca Staromák, min. někde, kde nikdo nechodí)
    Soužití s okolím  | 10 | (zahrnuje možnost být hlučnější, třeba při promítání uměleckých děl, možnost si zahulit, spolupráci s dalšími nájemníky)
    Cena za m2 administrativních prostor ( /využitelná administrativní plocha) | 50 | (Cena = celková cena pronájmu prostoru + příslušenství, záchod apod.)
-   Vysvětlit neznalému, kde to je | 5b | dobrá a srozumitelná adresa, všeobecné známé orientační body
+   Vysvětlit neznalému, kde to je | 5 | dobrá a srozumitelná adresa, všeobecné známé orientační body
 
 
 Nabídku nám prosím zašlete do 13. března 2017, adresu michal.jokes@pirati.cz, kopii potom na info@pirati.cz, do tří dnů se Vám ozveme ohledně výsledku výběrového řízení nebo dalšího postupu.
@@ -68,6 +68,6 @@ Nabídku nám prosím zašlete do 13. března 2017, adresu michal.jokes@pirati.c
 S pozdravem  
 Michal Jokeš  
 Krajský koordinátor v Praze  
-michal.jokes@pirati.cz, tel. 
+michal.jokes@pirati.cz, tel. 770 113 642
 
 
