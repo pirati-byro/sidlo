@@ -1,5 +1,13 @@
 ## Zápis
 
+Výběrové řízení bylo vyhlášeno... s uzávěrkou do.
+Do uzávěrky dorazili 4 nabídky.
+
+Martin Kučera je v 1. kole vyhodnotil všechny jako přijatelné.
+
+2. kolo bylo svoláno na  do nádražní restaurace v Pardubicích.
+
+
 
 ### Zasedání 
 
