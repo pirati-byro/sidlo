@@ -8,7 +8,7 @@ Výběrové řízení na prostory pro sídlo strany - Pirátské centrum
 
 Ahoj!
 
-Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe odpovídajcí našim představám a potřebám rozrůstající se strany. Hledáme tedy **nové kancelářské prostory o výměře aspoň 50 m2**, kde bychom mohli spřádat plány na parlamentní volby. Ideálně někde v širším centru, kde “budeme vidět”. 
+Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe odpovídající našim představám a potřebám rozrůstající se strany. Hledáme tedy **nové kancelářské prostory o výměře aspoň 50 m2**, kde bychom mohli spřádat plány na parlamentní volby. Ideálně někde v širším centru, kde “budeme vidět”. 
 
 ![Krajské sdružení Praha](ultimate-office-spaces-8-638.jpg)
 
@@ -18,12 +18,12 @@ Po nějakém čase jsme se rozhodli vyměnit **sídlo strany** za prostory lépe
 * Kanceláře pirátského mediálního odboru
 * Prostor pro setkávání Pirátů a společnou práci a plánování
 * Uskladnění materiálů strany 
-* Jednání s potencionálními partnery etc.
+* Jednání s potenciálními partnery etc.
 * Předpokládáme každodenní využití 
 
 ## Nabízíme:
 * Korektní a zodpovědný přístup jak sousedům, tak k prostorům a platbě za ně
-* Možnost podopřit dynamicky se rozvýjející politickou stranu se zajímavým programem zaměřeným na otevírání státu občanům
+* Možnost podpořit dynamicky se rozvíjející politickou stranu se zajímavým programem zaměřeným na otevírání státu občanům
 * Možnost potkávat zajímavé, netuctové lidi a být ve středu dění :-)
 
 ## Požadujeme:
