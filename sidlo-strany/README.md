@@ -1,6 +1,6 @@
 Česká pirátská strana  
 krajské sdružení Praha  
-krasjké sdružení Středočeský kraj  
+krajské sdružení Středočeský kraj  
 republikové předsednictvo
 
 Výběrové řízení na prostory pro sídlo strany - Pirátské centrum
