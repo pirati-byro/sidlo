@@ -205,7 +205,8 @@ Návrh následně odsouhlasil Mikuláš Peksa a Alex Mansurov.
 
 Odsouhlasené hodnocení tedy vapadá takto:
 Kriterium | Urbaník | Světlík | Esner | Pavlík
---- | ----:
+--- | ---- | --- | --- | ---:
+
 **Celkový dojem (15)**  | 12 | 1 | 11 | x
 **Znalost programu(10)** | 5 | 7 | 9 | x
 **Zkuš. s dobrovolnictvím(5)** | 2 | 3 | 5 | x
