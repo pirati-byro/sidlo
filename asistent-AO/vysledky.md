@@ -168,3 +168,51 @@ Vojtěch Pikal vyhodnnotil splnění úkolu 6.2. 13:00 následovně;
 
 > 5) Pavel Pavlík nic nedodal a nic nenapsal.
 * Úkol je zcela nesplněn.
+
+## Druhé zasedání
+
+Na druhém zasedání přes Skype měla komise zhodnotit kandidáta Pavla Pavlíka.
+
+Pro nedostečné plánování a technickou připravenost zejména na straně kandidáta se setkání neuskutečnilo.
+
+## Závěrečné zhodnocení
+
+Závěrečné zhodnocení v mailové komunikaci členů komise.
+
+Martin KUčera navrhl následující:
+> Na základě Vojtových poznámek bych navrhoval:
+* Světlík úkol za 0, takže pokud nebudeme upravovat čísla, skončí s 34 body.
+* Urbánkovi bych za dobře splněný úkol v těch dvou kategoriích přidal dejme tomu dohromady 10 bodů, takže by skončil s 52.
+* Esner za drobné chybičky v úkolu -1 bod v každé kategorii, takže by skončil s 81.
+
+> Jaké jsou vaše návrhy?
+
+Vojtěch Pikal protinavhl následující:
+> Za mě Světlíkovy za úkol 0 a ještě mu odebrat 1 z plánování.
+> Urbaníkovi bych naopak jeden bod do plánování přidal, za rychlost řešení, v zásadě.
+* Do práce s technickými systémy bych mu přidal asi 4 (Wiki prostě zvládá - založil si účet apod, a redmine taky zvládl otevřít a přečíst) a do Administrativy třeba 4. (Úkol zvládl z hlediska praktického použití bezchybně)
+ Tobiasovy bych ubral jeden v Administrativě za ty nedokonalosti. (Už není bezchybný) V Tech systémech bych mu neubíral, tam žádná nedokonalost není.
+
+> **Celkové zhodnocení** (až usedíme ty body) bude pořadí nabídek Esner, Urbaník, Světlík, Pavlík, přičemž nabídky Světlíka a Pavlíka považujeme na tuto pozici nepřijatelné. Uzavřit smlouvu navrhujeme s Esnerem a Urbaníka navrhujeme zapojit jako osvědčeného dobrovolníka a v případě potřeby na obdobnou pozici nabrat.
+
+> Teda případně další poznámky k uchazečům ohledně jejich oslovení na jiné pozice.
+
+Martin Kučera tento návh podpořil:
+> S Vojtovým návrhem bodování nemám problém.
+* Pak by tedy výsledné součty byly Světlík 33, Urbaník 51, Esner 82.
+
+Návrh následně odsouhlasil Mikuláš Peksa a Alex Mansurov.
+
+Odsouhlasené hodnocení tedy vapadá takto:
+Kriterium | Urbaník | Světlík | Esner | Pavlík
+--- | ----:
+**Celkový dojem (15)**  | 12 | 1 | 11 | x
+**Znalost programu(10)** | 5 | 7 | 9 | x
+**Zkuš. s dobrovolnictvím(5)** | 2 | 3 | 5 | x
+**Zkuš. s administrativou(25)** | 9 | 12 | 24 | 0
+**Písemný projev(15)** | 12 | 3 | 11 | x 
+**Práce s tech. systémy(15)** | 6 | 0 | 13 | 0
+**Plánování (10)** | 5 | 7 | 9 | 0
+**Celkem (95)** | 51 | 33 | 82 | x
+
+Hodnotící komise 
