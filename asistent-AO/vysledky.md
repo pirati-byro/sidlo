@@ -203,17 +203,17 @@ Martin Kučera tento návh podpořil:
 
 Návrh následně odsouhlasil Mikuláš Peksa a Alex Mansurov.
 
-Odsouhlasené hodnocení tedy vapadá takto:
-Kriterium | Urbaník | Světlík | Esner | Pavlík
---- | ---- | --- | --- | ---:
+Odsouhlasení bodování:
 
-**Celkový dojem (15)**  | 12 | 1 | 11 | x
-**Znalost programu(10)** | 5 | 7 | 9 | x
-**Zkuš. s dobrovolnictvím(5)** | 2 | 3 | 5 | x
-**Zkuš. s administrativou(25)** | 9 | 12 | 24 | 0
-**Písemný projev(15)** | 12 | 3 | 11 | x 
-**Práce s tech. systémy(15)** | 6 | 0 | 13 | 0
-**Plánování (10)** | 5 | 7 | 9 | 0
-**Celkem (95)** | 51 | 33 | 82 | x
+Kritérium | Urbaník | Světlík | Esner | Pavlík
+--------- | --------| ------- | ----- | -----:
+Celkový dojem (15)  | 12 | 1 | 11 | x
+Znalost programu(10) | 5 | 7 | 9 | x
+Zkuš. s dobrovolnictvím(5) | 2 | 3 | 5 | x
+Zkuš. s administrativou(25) | 9 | 12 | 24 | 0
+Písemný projev(15) | 12 | 3 | 11 | x 
+Práce s tech. systémy(15) | 6 | 0 | 13 | 0
+Plánování (10) | 5 | 7 | 9 | 0
+Celkem (95) | 51 | 33 | 82 | x
 
 Hodnotící komise 
