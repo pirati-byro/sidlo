@@ -5,36 +5,44 @@ Do uzávěrky dorazili 4 nabídky.
 
 Martin Kučera je v 1. kole vyhodnotil všechny jako přijatelné.
 
-2. kolo bylo svoláno na  do nádražní restaurace v Pardubicích.
+2 kolo bylo svoláno na  do nádražní restaurace v Pardubicích.
 
 
 
-### Zasedání 
+### Zasedání
 
-Martin Urbaník
+**Přítomní členové komise:** Vojtěch Pikal(RP, zápis), Martin Kučera(AO, zápis, předsedání), Alex Mansurov(RV), Mikuláš Peksa(PO)
+
+#### Martin Urbaník
 Start 10:05
 
-Představení komise.
-Alex požádal o představení v AJ. -> 
-Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chobu
-Pikal: Politická kariéra? -> Láká
-Alex: Proč Piráti -> ideová blízkost, souhlasí
-ALex: Zkušenost s dobrovolnictvím, motivací? - ne.
-Kučera: Týmbuildingové akce? - pro firmy, jednodenní táborový program pro dospělé.
-Kučera: Otázka na komise?
-Pikal: Jakákoliv administrativa - něco málo. Právní texty, zákony -> ne, ale věří si
-Alex: Systémy? -> viděl github, fóra nejsou problém. Kučera: Wikipedie? - neviděl
-Peksa: Příklad výprava do parlamentu poslanec - cestovat za úředníkem? -> Velká flexibilita
-Peksa: PGP klíč? http vs. https
-Alex: Zadávání osobních dat někam. -> Falešná stránka?
-Kučera: Flexibilita? Dostupnost v Praze? - ano
-Kučera: Program, transparentnost? - zveřejňování všeho, otevřenost, svobodný software? mimo
-Kučera: Jiné alternativy kontaktu státu? ne.
+Představení komise.\\
+Alex požádal o představení v AJ. -> prob2hlo bez problému \\ 
+Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu \\
+Pikal: Politická kariéra? -> Láká \\
+Alex: Proč Piráti -> ideová blízkost, souhlasí \\
+ALex: Zkušenost s dobrovolnictvím, motivací? - ne. \\
+Kučera: Týmbuildingové akce? - pro firmy, jednodenní táborový program pro dospělé. \\
+Kučera: Otázka na komise? \\
+Pikal: Jakákoliv zkušenost s administrativou, něco málo. Právní texty, zákony? -> ne, ale věří si \\
+Alex: Systémy? -> viděl github, fóra nejsou problém. Kučera: Wikipedie? - neviděl \\
+Peksa: Příklad výprava do parlamentu, poslanec, osobní údaje. -> cestoval by za úředníkem, velká flexibilita.\\
+Peksa: PGP klíč? http vs. https\\
+Alex: Zadávání osobních dat někam. -> Falešná stránka?\\
+Kučera: Flexibilita? Dostupnost v Praze? - ano\\
+Kučera: Program, transparentnost? - zveřejňování všeho, otevřenost, svobodný software? mimo\\
+Kučera: Jiné alternativy kontaktu státu? ne.\\
 Paksa: Jak se organizuješ? Fyzický diář
 
-Zadáme zpracování novely rozhodčího řádu
+Zadáme zpracování novely rozhodčího řádu\\
+Loučíme se
 
-Provedeno hodnocení:
+Provedeno kolektivní hodnocení:
+
+[Zájemce; Celkový dojem (15); Znalost programu(10); Zkuš. s dobrovolnictvím(5); Zkuš. s administrativou(25); Písemný projev(15); Práce s tech. systémy (15); Plánování (10); Celkem (95) 
+Urbaník; 12; 5; 2; 5+úkol; 12; 2+úkol; 4; 42+úkol ]
+
+
 Budeme posílat úkol a zadání
 
 Václav Světlík
