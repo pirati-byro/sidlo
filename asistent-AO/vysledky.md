@@ -216,4 +216,10 @@ Práce s tech. systémy(15) | 6 | 0 | 13 | 0
 Plánování (10) | 5 | 7 | 9 | 0
 **Celkem (95)** | **51** | **33** | **82** | **x**
 
-Hodnotící komise 
+Hodnotící komise se shodla na následujícím pořadí nabídek: 
+1. Esner
+2. Urbaník
+3. Světlík
+4. Pavlík
+
+přičemž jako přijetelné označuje nabídky Tobiase Esnera a Martina Urbaníka.
