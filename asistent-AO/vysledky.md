@@ -40,16 +40,19 @@ Loučíme se
 
 Provedeno kolektivní hodnocení:
 
-|Zájemce  |Celkový dojem (15)  |Znalost programu(10)  |Zkuš. s dobrovolnictvím(5)  |Zkuš. s administrativou(25)  |Písemný projev(15)  | Práce s tech. systémy (15)  |Plánování (10)  |Celkem (95)  | 
-------
-|Urbaník  |  12|  5|  2|  5+úkol|  12|  2+úkol|  4|  42+úkol|
+* Celkový dojem (15) - 12
+* Znalost programu(10) - 5
+* Zkuš. s dobrovolnictvím(5) - 2
+* Zkuš. s administrativou(25) - 5+úkol
+* Písemný projev(15) - 12
+* Práce s tech. systémy (15) - 2+úkol
+* Plánování (10) - 4
+* Celkem (95) - 42+úkol 
 
 
 Budeme posílat úkol a zadání
 
-Václav Světlík
-
-Plánování?x
+### Václav Světlík
 
 Alex požádal o představení v AJ -> "nemluvím anglicky"
 Představení v ČJ(sport, trenér, )
