@@ -40,7 +40,7 @@ Zadáme zpracování novely rozhodčího řádu.
 
 Loučíme se
 
-Provedeno kolektivní hodnocení:
+Provedeno **kolektivní hodnocení**:
 
 * Celkový dojem (15) - 12
 * Znalost programu(10) - 5
@@ -56,29 +56,42 @@ Budeme posílat úkol a zadání
 
 ### Václav Světlík
 
-Alex požádal o představení v AJ -> "nemluvím anglicky"
-Představení v ČJ(sport, trenér, )
-Pikal: Proč se hlásí na tuhle pozici? -> Spousta věcí skřípe. 
-(Asistentka, náhrada)
-Alex: Zkušenosti s dobrovolnictvím? -> sportovní akce, zkušenost se zkažením odměn a motivací
-Peksa: Příklad parlament
-Peksa: Co je PGP? Ne Šifrování? ne-e
-Alex: Zkušenosti Linux? Co neví to se zeptá
-Peksa: Http vs. https? ne,ne
-Peksa zadání osobních dat někam? hmhm
-Kučera: OVK? - byl členem, i předsedou, asi. Současně členem a kandidátem? nenapadlo
-Kučera: Pirátský program... -> Sledoval německé Piráty, Dělával managera OF (Praha 4), Stanislav Penc
-Kučera: Transparentní organizace? - nelíbí se mu web
-opakování otázky? "Všechno jednání veřejné, průhledné, aby nebyly ani názkany možnosti falšování."
-"Copyright z princiu špatný, vývoj"
-Autocad. - zadává v práci Java. - pokusy
-Kučera: Wikipedie? nedělal, dokázal. Bude úkol.
-Pikal: Redmine, git - nic
-Peksa: Plánování, kalendář - elektronický, sdílený, pracovní zkušenost
-Pikal: Právní texty? Německo cosi. Právní problémy. Stát Evropské soudy. Podnikatel od 90' roku.
-Pikal: Na čárky sere.
-Peksa: Co asistentka NDA?
-Kučera: Kancelářská software? "Nepoužívám".
-Alex: Svobodný software -> Upravitelný, neblokovaný.
-Kučera: Vhodnost svobodného software pro státní správu? "cena licencí"
+* Alex požádal o představení v AJ -> "nemluvím anglicky", Představení v ČJ(sport, trenér, )
+* Pikal: Proč se hlásí na tuhle pozici? -> Spousta věcí skřípe. 
+* (Asistentka, náhrada)
+* Alex: Zkušenosti s dobrovolnictvím? -> sportovní akce, zkušenost se zkažením odměn a motivací
+* Peksa: Příklad parlament
+* Peksa: Co je PGP? Ne Šifrování? ne-e
+* Alex: Zkušenosti Linux? Co neví to se zeptá
+* Peksa: Http vs. https? ne,ne
+* Peksa zadání osobních dat někam? hmhm
+* Kučera: OVK? - byl členem, i předsedou, asi. Současně členem a kandidátem? nenapadlo
+* Kučera: Pirátský program... -> Sledoval německé Piráty, Dělával managera OF (Praha 4), Stanislav Penc
+* Kučera: Transparentní organizace? - nelíbí se mu web
+* opakování otázky? "Všechno jednání veřejné, průhledné, aby nebyly ani názkany možnosti falšování."
+* "Copyright z princiu špatný, vývoj"
+* Autocad. - zadává v práci Java. - pokusy
+* Kučera: Wikipedie? nedělal, dokázal. Bude úkol.
+* Pikal: Redmine, git - nic
+* Peksa: Plánování, kalendář - elektronický, sdílený, pracovní zkušenost
+* Pikal: Právní texty? Německo cosi. Právní problémy. Stát Evropské soudy. Podnikatel od 90' roku.
+* Pikal: Na čárky sere.
+* Peksa: Co asistentka NDA?
+* Kučera: Kancelářská software? "Nepoužívám".
+* Alex: Svobodný software -> Upravitelný, neblokovaný.
+* Kučera: Vhodnost svobodného software pro státní správu? "cena licencí"
 
+Zadáme zpracování novely.
+
+Loučíme se
+
+Provedeno **kolektivní hodnocení**:
+
+* Celkový dojem (15) - 1
+* Znalost programu(10) - 7
+* Zkuš. s dobrovolnictvím(5) - 3
+* Zkuš. s administrativou(25) - 12+úkol
+* Písemný projev(15) - 3
+* Práce s tech. systémy (15) - 0+úkol
+* Plánování (10) - 8
+* Celkem (95) - 34+úkol 
