@@ -214,6 +214,6 @@ Zkuš. s administrativou(25) | 9 | 12 | 24 | 0
 Písemný projev(15) | 12 | 3 | 11 | x 
 Práce s tech. systémy(15) | 6 | 0 | 13 | 0
 Plánování (10) | 5 | 7 | 9 | 0
-Celkem (95) | 51 | 33 | 82 | x
+**Celkem (95)** | **51** | **33** | **82** | **x**
 
 Hodnotící komise 
