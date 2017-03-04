@@ -1,13 +1,11 @@
 ## Zápis
 
-Výběrové řízení bylo vyhlášeno... s uzávěrkou do.
-Do uzávěrky dorazili 4 nabídky.
+Výběrové řízení bylo [vyhlášeno 19.1.2017](https://forum.pirati.cz/post486217.html#p486217) s uzávěrkou do 2.2.
+* Do uzávěrky dorazili 4 nabídky.
 
 Martin Kučera je v 1. kole vyhodnotil všechny jako přijatelné.
 
-2 kolo bylo svoláno na  do nádražní restaurace v Pardubicích.
-
-
+Druhé kolo bylo svoláno na sobotu 4.2. do nádražní restaurace v Pardubicích.
 
 ### Zasedání
 
@@ -56,6 +54,8 @@ Budeme posílat úkol a zadání
 
 ### Václav Světlík
 
+Představení komise
+
 * Alex požádal o představení v AJ -> "nemluvím anglicky", Představení v ČJ(sport, trenér, )
 * Pikal: Proč se hlásí na tuhle pozici? -> Spousta věcí skřípe. 
 * (Asistentka, náhrada)
@@ -95,3 +95,25 @@ Provedeno **kolektivní hodnocení**:
 * Práce s tech. systémy (15) - 0+úkol
 * Plánování (10) - 8
 * Celkem (95) - 34+úkol 
+
+### Tobias Esner
+
+Členové komise vyjádřili potřebu spěchat.
+
+Představení komise.
+
+Padly běžné otázky na představení v angličtině, zkušenost s dobrovolnictvím, znalost programu, zkušenost s admnisitrativou, příklad doručení osobních údaků na úřad (řešeno kurýrem), znalost programu, znalost systémů, zkušenost s OVK.
+
+Zadáme zpracování novely.
+
+Loučíme se
+
+Provedeno **kolektivní hodnocení**:
+* Celkový dojem (15) - 11
+* Znalost programu(10) - 9
+* Zkuš. s dobrovolnictvím(5) - 5
+* Zkuš. s administrativou(25) - 25-úkol
+* Písemný projev(15) - 11
+* Práce s tech. systémy (15) - 13-úkol
+* Plánování (10) - 9
+* Celkem (95) - 83-úkol 
