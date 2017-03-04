@@ -16,8 +16,10 @@ Martin Kučera je v 1. kole vyhodnotil všechny jako přijatelné.
 #### Martin Urbaník
 Start 10:05
 
-Představení komise.\\
-Alex požádal o představení v AJ. -> prob2hlo bez problému \\ 
+Představení komise.
+
+Alex požádal o představení v AJ. -> proběhlo bez problému
+
 Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu \\
 Pikal: Politická kariéra? -> Láká \\
 Alex: Proč Piráti -> ideová blízkost, souhlasí \\
