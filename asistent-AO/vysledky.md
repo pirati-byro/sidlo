@@ -117,3 +117,54 @@ Provedeno **kolektivní hodnocení**:
 * Práce s tech. systémy (15) - 13-úkol
 * Plánování (10) - 9
 * Celkem (95) - 83-úkol 
+
+### Pavel Pavlík
+
+Pavel Pavlík se z účasti na 2. kole omluvil, bylo dohodnuto, že 2. kolo se v jeho případě odehraje v nejbližších dnech přes Skype.
+
+## Úkol
+
+4.2. v 13:30 zadal Vojtěch Pikal úkol následujícím způsobem
+
+> Zdravím,
+
+> podle dohody na výběrovém řízení zasílám zadání úkolu.
+
+> Každý máte zpracovat na pískovišti na pirátské wiki (pirati.cz/playground) podstránku s novým zněním určeného předpisu po poslední změně.
+
+> Předpisy jsou přiděleny takto:
+* Martin Urbaník - Rozhodčí řád
+* Václav Světlík - Volební řád
+* Tobias Esner - Rozpočtová pravidla
+* Pavel Pavlík - Pravidla hospodaření
+
+> Současné znění předpisů naleznete ve sbírce zde: https://www.pirati.cz/rules/start
+
+> Změny jsou ve schváleném dokumentu .pdf odkázaném v tomto úkolu: https://redmine.pirati.cz/issues/5217
+
+> Stránku s novým zněním předpisu založte na zkratce předpisu (např. pirati.cz/playground/ropr).
+
+> Kvalitně zpracovanou stránkou předpisu, kde jsou uvedeny všechny vhodné doplňující informace, je například jednací řád republikového výboru: https://www.pirati.cz/rules/jrrv
+
+> V případě jakýchkoliv dotazů se na mě obraťte mailem nebo telefonicky.
+
+Tedmín pro odevzdání úkolu byl do 5.2. 24:00 včetně, pro Pavla Pavlíka do 6.2. 12:00 včetně.
+
+### Zhodnocení úkolu
+Vojtěch Pikal vyhodnnotil splnění úkolu 6.2. 13:00 následovně;
+
+> 1) Úkol byl zadán 4. února ve 13:30 (v zásadě bezprostředně po skončení setkání k výběrkům) - tady nevím, kdy jej dostal Pavel Pavlík. S tím že úkol má být splněn do 5.2. 24:00
+* EDIT: Pavlík měl posunutý termín do 6.2. 12:00
+
+> 2) Martin Urbaník úkol splnil dostatečně v 15:48 což řádně oznámil mě a doptal se při tom na něco. Toto (doplnění legislativní historie a účinnosti) řádně samostatně doplnil 5.2. 14:38.
+* Odevzdaný úkol není bezchybný - neobsahuje vnitřní prolinkování paragrafů v dokumentu ani například odkaz na příslušné usnesení. Taky je tam legislativní tisková chyby, jaké odbor běžně odstraňuje (přidalo se písmeno na konec seznamu, což znamená, že u předchozího písmene se měla tečka nahradit čárkou a na konec nového písmene dát tečka).
+* Úkol byl splněn řádně, včas, samostatně a bez podstatných chyb. Mohl by být splněn o stupeň lépe.
+
+> 3) Václav Světlík úkol neodevzdal, napsal omluvu dnes 6.2 v 5:30 (tedy 5 a půl hodiny po limitu odevzdání) že to nestíhá a nemá na to momentálně čas. Není tam ani čárka.
+* Úkol je nesplněn, a pokud nestíhal, měl to dát vědět dřív.
+
+> 4) Tobias Esner úkol splnil 5.2. v 18:00 což mi řádně oznámil. Během řešení co vím se doptával na nějaký legislativní zvyk. Odevzdaný úkol má řádně doplněné legislativní informace a je interně prolinkován co se vnitřních v vnějších odkazů na jiné předpisy týče. Prolinkování by mohlo být větší. Opět je tam jedna chybka ohledně čárek a seznamů, ale ta tam asi byla i v předchozím dokumentu, nicméně jinde to upravil správně.
+* Úkol je splněn řádně a včas, samostatně a bez chyb. Mohl by být splněn o trochu lépe.
+
+> 5) Pavel Pavlík nic nedodal a nic nenapsal.
+* Úkol je zcela nesplněn.
