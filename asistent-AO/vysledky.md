@@ -18,24 +18,26 @@ Start 10:05
 
 Představení komise.
 
-Alex požádal o představení v AJ. -> proběhlo bez problému
-Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu
-Pikal: Politická kariéra? -> Láká \\
-Alex: Proč Piráti -> ideová blízkost, souhlasí \\
-ALex: Zkušenost s dobrovolnictvím, motivací? - ne. \\
-Kučera: Týmbuildingové akce? - pro firmy, jednodenní táborový program pro dospělé. \\
-Kučera: Otázka na komise? \\
-Pikal: Jakákoliv zkušenost s administrativou, něco málo. Právní texty, zákony? -> ne, ale věří si \\
-Alex: Systémy? -> viděl github, fóra nejsou problém. Kučera: Wikipedie? - neviděl \\
-Peksa: Příklad výprava do parlamentu, poslanec, osobní údaje. -> cestoval by za úředníkem, velká flexibilita.\\
-Peksa: PGP klíč? http vs. https\\
-Alex: Zadávání osobních dat někam. -> Falešná stránka?\\
-Kučera: Flexibilita? Dostupnost v Praze? - ano\\
-Kučera: Program, transparentnost? - zveřejňování všeho, otevřenost, svobodný software? mimo\\
-Kučera: Jiné alternativy kontaktu státu? ne.\\
-Paksa: Jak se organizuješ? Fyzický diář
+Otázky:
+* Alex požádal o představení v AJ. -> proběhlo bez problému
+* Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu
+* Pikal: Politická kariéra? -> Láká
+* Alex: Proč Piráti -> ideová blízkost, souhlasí
+* ALex: Zkušenost s dobrovolnictvím, motivací? - ne.
+* Kučera: Týmbuildingové akce? - pro firmy, jednodenní táborový program pro dospělé.
+* Kučera: Otázka na komise?
+* Pikal: Jakákoliv zkušenost s administrativou, něco málo. Právní texty, zákony? -> ne, ale věří si
+* Alex: Systémy? -> viděl github, fóra nejsou problém. Kučera: Wikipedie? - neviděl
+* Peksa: Příklad výprava do parlamentu, poslanec, osobní údaje. -> cestoval by za úředníkem, velká flexibilita
+* Peksa: PGP klíč? http vs. https
+* Alex: Zadávání osobních dat někam, předpokládá falešnou stránku?
+* Kučera: Flexibilita? Dostupnost v Praze? - ano
+* Kučera: Program, transparentnost? - zveřejňování všeho, otevřenost, svobodný software? mimo
+* Kučera: Jiné alternativy kontaktu státu? ne.
+* Paksa: Jak se organizuješ? Fyzický diář
 
-Zadáme zpracování novely rozhodčího řádu\\
+Zadáme zpracování novely rozhodčího řádu.
+
 Loučíme se
 
 Provedeno kolektivní hodnocení:
