@@ -19,8 +19,7 @@ Start 10:05
 Představení komise.
 
 Alex požádal o představení v AJ. -> proběhlo bez problému
-
-Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu \\
+Pikal: Proč se hlásí na tuhle pozici -> zkušenost, nakouknout do chodu
 Pikal: Politická kariéra? -> Láká \\
 Alex: Proč Piráti -> ideová blízkost, souhlasí \\
 ALex: Zkušenost s dobrovolnictvím, motivací? - ne. \\
