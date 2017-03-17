@@ -63,7 +63,7 @@ V nabídce nám prosím zašlete v jednom PDF dokumentu popis a foto prostor tak
    Vysvětlit neznalému, kde to je | 5 | dobrá a srozumitelná adresa, všeobecné známé orientační body
 
 
-Nabídku nám prosím zašlete do 13. března 2017, adresu michal.jokes@pirati.cz, kopii potom na info@pirati.cz, do tří dnů se Vám ozveme ohledně výsledku výběrového řízení nebo dalšího postupu.
+Nabídku nám prosím zašlete do 20. března 2017, adresu michal.jokes@pirati.cz, kopii potom na info@pirati.cz, do tří dnů se Vám ozveme ohledně výsledku výběrového řízení nebo dalšího postupu.
 
 S pozdravem  
 Michal Jokeš  
