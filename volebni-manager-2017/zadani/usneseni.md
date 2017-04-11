@@ -28,9 +28,9 @@ Rozpočet projektu
 Položka | Částka (tis. Kč)
 --- | ----:
 **Náklady celkem**  | **490**
-– smluvní odměna manažera	|	 288
-- smluvní odměna asistenta |  192
-- dva telefonní tarify | 10
+smluvní odměna manažera	|	 288
+smluvní odměna asistenta |  192
+dva telefonní tarify | 10
 
 Součástí záměru je též pozice asistenta volebního manažera s předpoklá
 
