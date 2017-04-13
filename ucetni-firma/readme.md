@@ -1,4 +1,6 @@
-Česká pirátská strana vyhlašuje prostřednictvím finančního odboru výběrové řízení na dodavatele účetních služeb.
+Česká pirátská strana vyhlašuje prostřednictvím finančního odboru 
+
+#výběrové řízení na dodavatele účetních služeb
 
 S vítězem výběrového řízení bude uzavřena smlouva na jeden rok s možností prodloužení.
 Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek@pirati.cz
