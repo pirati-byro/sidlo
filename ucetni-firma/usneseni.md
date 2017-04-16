@@ -14,10 +14,10 @@ Dodavatel účetních služeb bude odpovědný finančnímu odboru, který zaji�
 Potřeba záměru
 --------------
 
-Záměr navrhl vedoucí fiančního odboru odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. 
+Záměr navrhl vedoucí fiančního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. 
 
 Klíčem pro úspěch ve volbách a po nich je mimo jiné bezproblémové, konzistentní a transparentní účetnictví řešené včas.  
- 
+
 Dne 12. 9. 2016 uzavřelo republikové předsednictvo smlouvu s asistententem pro administrativu (který měl být k dispozici republikovému předsednictvu, republikovému výboru a administrativnímu odboru). Avšak dosavadní činnost odváděná pro administrativní odbor je velmi malá a zejména se očekává, že daná osoba nebude schopna vykonávat tuto pozici z důvodu těhotenství a je třeba mít za ni zástupce. 
 
 Administrativní podpora bude sloužit zejména administrativnímu odboru (okrskové volební komise, sledování termínů, kontrola retence členů, pomoc při správě technických systému v gesci administrativního odboru, pomoc s administrativou oblastních sdružení), případně jako záskok republikovému předsednictvu. 
@@ -29,23 +29,6 @@ Předpokládaný rozsah práce je 20 hodin týdně s možností rozšíření do
 Velkou pozornost je však třeba věnovat tomu, aby nedocházelo k samoúčelnému bujení byrokracie, vyloučení dobrovolníků, neprofesionální interní komunikaci a vytváření závislosti na jednom člověku, na což bude dohlížet republikové předsednictvo. Úkolem asistenta pro administrativu bude, aby ostatní pocítili nutnou byrokracii co nejméně nebo o ní nejlépe vůbec nevěděli a naplno se mohli věnovat politice jako hlavnímu poslání Pirátů.
 
 Podmínky výběrového řízení vychází z výběrového řízení na asistenta pro adminstrativu a provede je vedoucí administrativního odboru. 
-
-Rozpočet projektu
------------------
-
-### Výše odměny
-
-Záměrem předsednictva je systematizovat odměňování, proto je odměna určena hodinovou sazbou s možností úkolových odměn a paušálem, díky kterému si koordinátor nemusí zapisovat každý telefonický hovor. Hodinová sazba byla určena tak, že je mírně vyšší než u krajských koordinátorů. Standardní složky odměny navrhujeme následující:
-
-* paušální odměna za pohotovost: 1500 Kč měsíčně (18 000 Kč ročně)
-* hodinová odměna: 97 Kč (= 8 115 Kč měsíčně, 97 388 Kč ročně) 
-* úkolová odměna: až 5 000 Kč měsíčně
-* **celkem maximálně** 9 615 Kč měsíčně + 5 000 Kč měsíčně úkolová odměna (ročně celkem 175 380 Kč)
-* **celkem středně** 9 615 Kč měsíčně + 3 000 Kč měsíčně úkolová odměna (ročně celkem 151 380 Kč)
-
-Jednotlivé složky odměny jsou popsány v [návodu pro odměňované][navod]. Jde tedy systém odměňování použitý v navržené standardní (viz [metodice odměňování][metodika]). 
-
-Skutečná hodnota odměn může být vyšší i nižší, protože se odvíjí od skutečně odvedené práce. Za podmínek uvedených ve vnitřních předpisech může být schválena i odměna odměna za úkoly zadané nad rámec odhadnuté doby a mimořádná odměna v souladu s [podmínkami pro placené úkoly][podminky]. 
 
 ### Celkové náklady záměru
 
