@@ -14,11 +14,14 @@ Dodavatel účetních služeb bude odpovědný finančnímu odboru, který zaji�
 Potřeba záměru
 --------------
 
-Záměr navrhl vedoucí fiančního odboru. Svého asistenta pro administrativu již má krajské sdružení Praha (jednak krajského manažera a jednak v zastupitelském klubu), pozice se v Praze osvědčila – tyto zkušenosti je třeba přenést na celostátní úroveň zejména v souvislosti s  volbami a fungováním celostátních orgánů. 
+Klíčem pro úspěch ve volbách a po nich je mimo jiné bezproblémové, konzistentní a transparentní účetnictví řešené včas.  
 
-Klíčem pro úspěch ve volbách a po nich je mimo jiné bezproblémové, konzistentní a transparentní účetnictví řešené včas.   
+Záměr navrhl vedoucí fiančního odboru. Účetnictví strany bylo do roku 2014 řešeno v zásadě dobrovolnicky, "na koleně". Účetnictví za rok 2015 a 2016 bylo dle [smlouvy](https://smlouvy.pirati.cz/smlouvy/2015/12/2/ucto-2015/) zpracováváno společností Alvarium. 
 
-### Celkové náklady záměru
+ 
+
+Celkové náklady záměru
+------
 
 Celkové odhadnuté náklady záměru činí cca 120 tis. Kč při uzavření smlouvy s dodavatelem na 1 rok s možností dalšího prodloužení. 
 
