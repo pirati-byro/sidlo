@@ -27,9 +27,13 @@ Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtov�
 [prah]: https://www.pirati.cz/rules/prah
 
 
-### Dopad na rozpočtový výhled
+#### Dopad na rozpočtový výhled
 
 Roční střední náklady činí cca 120 tis. Kč z položky Provozní výdaje finančního odboru. Lze předpokládat vysoutěžení nižší částky. V rozpočtovém výhledu na rok 2017 tyto prostředky nejsou resp. minimálně 20 tisíc (spíše 30 tisíc) chybí. Tato potřeba bude řešena úpravou výhledu snížením rezervy předsednictva.
+
+#### Dopad na rozpočet 2017		
+		
+V roce 2017 při předpokladu nástupu ne dříve než 1. 6. 2017 budou odhadnuté náklady 60 tis. Kč z [položky finančního odboru](https://wiki.pirati.cz/fo/hospodareni2017/rozpocty/strana/212700001). V rozpočtu na rok 2017 tyto prostředky všechny nejsou a budou doplněny z rezervy předsednictva.
 
 Harmonogram projektu
 --------------------
@@ -73,7 +77,7 @@ Schvalování záměru
 Republikové předsednictvo
 
 1. **souhlasí** se záměrem dodání účetních služeb podle předložených dokumentů,
-2. **souhlasí** s náklady na tento záměr z položky finančního odboru do 120 tis. Kč ročně,
+2. **souhlasí** s náklady na tento záměr do 120 tis. Kč ročně,
 3. **ukládá** finančnímu odboru předložit záměr republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *v případě schválení republikovým výborem*
 4. **převádí** 50 000,- Kč ze svých rezerv do rozpočtové položky finančního odboru,
 5. **ukládá** finančnímu odboru záměr realizovat.
