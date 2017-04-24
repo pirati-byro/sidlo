@@ -1,7 +1,6 @@
 Česká pirátská strana vyhlašuje prostřednictvím finančního odboru 
 
-Výběrové řízení na dodavatele účetních služeb
-===
+# Výběrové řízení na dodavatele účetních služeb
 
 S vítězem výběrového řízení bude uzavřena smlouva na jeden rok s možností prodloužení.
 Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek@pirati.cz
@@ -25,10 +24,9 @@ Aktuální rozsah účetnictví nepřesahuje 200 výdajových a 100 příjmovýc
 
 Další informace o rozsahu a složitosti jsou uvedeny na webu České pirátské strany – transparentní účetnictví: http://wiki.pirati.cz/fo/start
 
-Požadavky
-===
+## Požadavky
 
-Požadavky zadavatele (must have):
+**Požadavky zadavatele (must have):**
 * Schvalovací vnitřní workflow (viz příloha [Proces schvalování výdajů](proces.md)) [1].
 * Otevřený přístup do účetnictví online s možností vícestupňového nastavení práv.
 * Sledování druhu výdajů podle zákona o pol. stranách (po jednotlivých výdajích).
@@ -39,7 +37,7 @@ Požadavky zadavatele (must have):
 
 [1]: Preferujeme zachování procesu schvalování výdajů, ale jsme otevřeni lepším a jednodušším řešením se stejným účinkem.
 
-Požadavky na nabídky:
+**Požadavky na nabídky:**
 * Nabídněte poskytování služby vedení účetnictví. 
 * V nabídce uveďte způsob realizace a cenu za měsíc. Maximální nabídková cena je 10.000Kč / měsíc včetně DPH.
 
