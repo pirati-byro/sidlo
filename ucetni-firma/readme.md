@@ -2,10 +2,15 @@
 
 # Výběrové řízení na dodavatele účetních služeb
 
+![Otevřené účetnictví](otevreny_stat.jpg)
+
 S vítězem výběrového řízení bude uzavřena smlouva na jeden rok s možností prodloužení.
-Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek@pirati.cz
-Nabídky budou přijímány do 30.4.2017
-podáním nabídky vyjadřujete souhlas s podmínkami výběru dodavatelů České pirátské strany
+
+Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek@pirati.cz.
+
+Nabídky budou přijímány do 30.4.2017.
+
+Podáním nabídky vyjadřujete souhlas s podmínkami výběru dodavatelů České pirátské strany.
 
 **Náplň činnosti:**
 * Kompletní zpracování a vedení účetnictví,
