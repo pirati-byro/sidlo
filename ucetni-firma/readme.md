@@ -66,7 +66,11 @@ Hodnoticími kritérii jsou:
 * SLA a **dostupnost** kontaktní osoby - 30% váha (bodové hodnocení udělí komise)
 Hodnocené nabídky mohou v každé ze tří oblastí získat 0 až 20 bodů. Bodové hodnoty se následně vynásobí procentuálními vahami a vítěznou se stává nabídka s nejvyšším celkovým bodovým součtem. Nejvyšším možným hodnocením nabídky je 20 bodů.
 
-Zadavatelem výběrového řízení je finanční odbor, za který jedná ve věci Jaromír Beránek
+Hodnotící komise je oprávněna vyřadit nabídku, která nesplňuje některý požadavek.
+
+Zadavatelem výběrového řízení je finanční odbor, za který jedná ve věci Jaromír Beránek. Tento inzerát zadavatel veřejně vyhlásí, přihlásit se může kdokoliv splňující kvalifikaci, následně také zadavatel obepíše a obvolá vytipované firmy s cílem získat co nejlepší nabídky. Zadavatel je také oprávněn použít standardní prostředky vyjednávání v soukromém sektoru s cílem získat pro stranu co nejvýhodnější nabídku.
+
+Cílem tohoto výběrového řízení je doporučit ekonomicky nejvýhodnější nabídku z těch, která strana obdržela. Za splnění tohoto cíle odpovídá hodnotící komise.
 
 Hodnoticí komise je složena ze tří členů finančního odboru: Jaromíra Beránka, Tobiase Esnera a Vojtěcha Pikala, náhradníkem je Jakub Michálek
 
