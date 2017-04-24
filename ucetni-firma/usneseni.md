@@ -1,27 +1,21 @@
-Záměr výběrového řízení na dodavatele účetních služeb
-========================
+# Záměr výběrového řízení na dodavatele účetních služeb
 
 *Toto je projektový záměr, který finanční odbor předkládá republikovému předsednictvu a republikovému výboru.*
 
-Shrnutí
--------
+## Shrnutí
 
 V rámci zlepšení fungování zázemí strany, zejména v oblasti financí, transparentnosti a správnosti účetnictví a plnění nových zákonných povinnosti navrhujeme provést výběrové řízení na **dodavatele účetních služeb**.
 
 Dodavatel účetních služeb bude odpovědný finančnímu odboru, který zajišťuje finanční agendu strany.
 
-
-Potřeba záměru
---------------
+## Potřeba záměru
 
 Klíčem pro úspěch ve volbách a po nich je mimo jiné bezproblémové, konzistentní a transparentní účetnictví řešené včas.  
 
-Záměr navrhl vedoucí fiančního odboru. Účetnictví strany bylo do roku 2014 řešeno v zásadě dobrovolnicky, "na koleně". Účetnictví za rok 2015 a 2016 bylo dle [smlouvy](https://smlouvy.pirati.cz/smlouvy/2015/12/2/ucto-2015/) zpracováváno společností Alvarium. 
+Záměr navrhl vedoucí fiančního odboru. Účetnictví strany bylo do roku 2014 řešeno v zásadě dobrovolnicky, "na koleně". Účetnictví za rok 2015 a 2016 bylo dle [smlouvy](https://smlouvy.pirati.cz/smlouvy/2015/12/2/ucto-2015/) zpracováváno společností Alvarium.
+Tato smlouva by mohla být opět prodloužena, ale vzhledem k dlouhodobému neodvaratitelnému nárůstu účetních operací, zvýšenému tlaku a požadavkům dle nových volebních zákonů a regulací v zákonech o politických stranách a zejména k tomu, že očekáváme po volbách i v konzervativních odhadech nárůst prostředků s nimiž bude straba běžně operovat, je třeba navýšit objem poptávaných služeb. To samo o sobě je dostatečným důvodem pro nové výběrové řízení.
 
- 
-
-Celkové náklady záměru
-------
+## Celkové náklady záměru
 
 Celkové odhadnuté náklady záměru činí cca 120 tis. Kč při uzavření smlouvy s dodavatelem na 1 rok s možností dalšího prodloužení. 
 
@@ -30,11 +24,11 @@ Z hlediska vnitrostranických předpisů se jedná o jeden záměr v rozpočtov�
 [prah]: https://www.pirati.cz/rules/prah
 
 
-#### Dopad na rozpočtový výhled
+### Dopad na rozpočtový výhled
 
 Roční střední náklady činí cca 120 tis. Kč z položky Provozní výdaje finančního odboru. Lze předpokládat vysoutěžení nižší částky. V rozpočtovém výhledu na rok 2017 tyto prostředky nejsou resp. minimálně 20 tisíc (spíše 30 tisíc) chybí. Tato potřeba bude řešena úpravou výhledu snížením rezervy předsednictva.
 
-#### Dopad na rozpočet 2017		
+### Dopad na rozpočet 2017		
 		
 V roce 2017 při předpokladu nástupu ne dříve než 1. 6. 2017 budou odhadnuté náklady 60 tis. Kč z [položky finančního odboru](https://wiki.pirati.cz/fo/hospodareni2017/rozpocty/strana/212700001). V rozpočtu na rok 2017 tyto prostředky všechny nejsou a budou doplněny z rezervy předsednictva.
 
@@ -79,11 +73,11 @@ Schvalování záměru
 
 Republikové předsednictvo
 
-1. **souhlasí** se záměrem dodání účetních služeb podle předložených dokumentů,
+1. **souhlasí** s předloženým záměrem na dodání účetních služeb,
 2. **souhlasí** s náklady na tento záměr do 120 tis. Kč ročně,
 3. **ukládá** finančnímu odboru předložit záměr republikovému výboru k projednání bezodkladně po schválení tohoto usnesení, a dále *v případě schválení republikovým výborem*
 4. **převádí** 50 000,- Kč ze svých rezerv do rozpočtové položky finančního odboru,
-5. **ukládá** finančnímu odboru záměr realizovat.
+5. **ukládá** finančnímu odboru záměr bezodkladně realizovat a ukládá finančnímu odboru dopracovat podklady pro výběrové řízení.
 
 #### Návrh usnesení republikového výboru
 
