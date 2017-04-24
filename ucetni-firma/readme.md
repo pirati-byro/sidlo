@@ -29,13 +29,15 @@ Požadavky
 ===
 
 Požadavky zadavatele (must have):
-* Schvalovací vnitřní workflow (viz příloha [Proces schvalování výdajů](proces.md)) ((Preferujeme zachování procesu schvalování výdajů, ale jsme otevřeni lepším a jednodušším řešením se stejným účinkem.)).
+* Schvalovací vnitřní workflow (viz příloha [Proces schvalování výdajů](proces.md)) [1].
 * Otevřený přístup do účetnictví online s možností vícestupňového nastavení práv.
 * Sledování druhu výdajů podle zákona o pol. stranách (po jednotlivých výdajích).
 * Automatické překlápění připravených plateb do banky.
 * Nastavení samostatných přístupových práv pro jednotlivé hospodáře a zástupce (až sto osob).
 * Kancelář v Praze, popřípadě ochota v případě potřeby na vlastní náklady přijet.
 * Možnost exportovat uložená data do otevřeného strojově čitelného formátu.
+
+[1]: Preferujeme zachování procesu schvalování výdajů, ale jsme otevřeni lepším a jednodušším řešením se stejným účinkem.
 
 Požadavky na nabídky:
 * Nabídněte poskytování služby vedení účetnictví. 
