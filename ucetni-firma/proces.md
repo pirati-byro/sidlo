@@ -1,5 +1,6 @@
 Příloha:
-#Proces schvalování výdajů
+
+# Proces schvalování výdajů
 
 **Vstupy:**
  * Požadavek člena na proplacení výdaje, který již sám uhradil, nebo
@@ -13,5 +14,4 @@ Příloha:
 
 **Výstup:** Proplacená a zaúčtovaná transakce, o které byly zveřejněny účetní informace na webu.
 
-
-
+![Proces schvalování výdajů](proces.jpg)
