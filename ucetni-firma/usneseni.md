@@ -35,10 +35,10 @@ V roce 2017 při předpokladu nástupu ne dříve než 1. 6. 2017 budou odhadnut
 Harmonogram projektu
 --------------------
 
-* První a druhý týden – lhůta pro přihlašování
-* Třetí týden – hodnocení
-* Čtvrtý týden – lhůta pro odvolání a přezkum rozhodnutí
-* Pátý týden – uzavření smlouvy
+* Čtrnáct dnů od data vyhlášení – lhůta pro podávání nabídek
+* Následující tři dny – hodnocení došlých nabídek a oznámení vítěze
+* Následující tři dny – lhůta pro odvolání a přezkum rozhodnutí (bude-li nutné)
+* Po uplynutí lhůty pro odvolání potvrzení vítězné nabídky a podpis smlouvy
 
 Výběrové řízení proběhne a smlouva bude uzavřena nejpozději do 2 měsíců od schválení usnesení všemi orgány.
 
