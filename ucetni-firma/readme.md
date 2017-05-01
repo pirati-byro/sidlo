@@ -10,7 +10,7 @@ Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek
 
 Nabídky budou přijímány do 30.4.2017.
 
-Podáním nabídky vyjadřujete souhlas s podmínkami výběru dodavatelů České pirátské strany.
+Podáním nabídky vyjadřujete souhlas s [pravidly výběru](pravidla.md) dodavatelů.
 
 **Náplň činnosti:**
 * Kompletní zpracování a vedení účetnictví,
@@ -56,11 +56,11 @@ Další informace o rozsahu a složitosti jsou uvedeny na webu České pirátsk�
 
 V nabídce také uveďte:
 * **Totožnost:** Musíte uvést svoje jméno a pokud jde o firmu, musíte také uvést vlastníky, které lze ověřit z veřejných zdrojů. Zasláním nabídky souhlasíte se zveřejněním a zpracováním svých osobních údajů v souvislosti s výběrovým řízením. 
-* **Svobodná licence:** Zasláním nabídky souhlasíte se zveřejněním všech příslušných smluv a všech děl uvedených v nabídce nebo vzniklých na základě a smluv. Souhlasíte s tím, že díla uvedená v nabídce i výsledná díla bude možné svobodně šířit za podmínek licence .
-* **Souhlas s pravidly:** Zasláním nabídky souhlasíte s těmito pravidly i zvláštními pravidly uvedenými u daného výběrového řízení. Souhlasíte s tím, že nemáte nárok na náhradu nákladů spojených s účastí ve výběrovém řízení ani na jiná finanční plnění z naší strany, není-li to výslovně uvedeno při vyhlášení výběrového řízení. Vyhrazujeme si právo změnit pravidla daného výběrového řízení. V takovém případě máte právo z výběrového řízení odstoupit. 
+* **Svobodná licence:** Zasláním nabídky souhlasíte se zveřejněním všech příslušných smluv a všech děl uvedených v nabídce nebo vzniklých na základě smluv. Souhlasíte s tím, že díla uvedená v nabídce i výsledná díla bude možné svobodně šířit za podmínek licence .
+* **Souhlas s pravidly:** Zasláním nabídky souhlasíte s těmito pravidly i [zvláštními pravidly](pravidla.md) uvedenými u tohoto výběrového řízení. Souhlasíte s tím, že nemáte nárok na náhradu nákladů spojených s účastí ve výběrovém řízení, ani na jiná finanční plnění z naší strany, není-li to výslovně uvedeno při vyhlášení výběrového řízení. Vyhrazujeme si právo změnit pravidla daného výběrového řízení. V takovém případě máte právo z výběrového řízení odstoupit. 
 * **Kvalifikace:**
-* Držení vázané živnosti na Činnost účetních poradců, vedení účetnictví a vedení daňové evidence
-* Alespoň dvouletá praxe ve vedení učetnictví, kterou uchazeč doloží uvedením kontaktů na 3 referenční zákazníky se stejným nebo větším objemem účetních případů.
+  * Držení vázané živnosti na Činnost účetních poradců, vedení účetnictví a vedení daňové evidence
+  * Alespoň dvouletá praxe ve vedení učetnictví, kterou uchazeč doloží uvedením kontaktů na 3 referenční zákazníky se stejným nebo větším objemem účetních případů.
 
 Pozn.: Právní forma dodavatele není rozhodující
 
