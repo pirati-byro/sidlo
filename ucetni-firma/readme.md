@@ -6,7 +6,7 @@
 
 S vítězem výběrového řízení bude uzavřena smlouva na jeden rok s možností prodloužení.
 
-Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na tobias.esner@pirati.cz.
+Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na tobias.esner@pirati.cz a vyberka@pirati.cz.
 
 Nabídky budou přijímány do 26.05.2017.
 
