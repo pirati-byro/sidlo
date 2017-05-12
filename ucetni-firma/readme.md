@@ -6,9 +6,9 @@
 
 S vítězem výběrového řízení bude uzavřena smlouva na jeden rok s možností prodloužení.
 
-Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na jaromir.beranek@pirati.cz.
+Nabídky zasílejte emailem na adresu: fo@pirati.cz a v kopii na tobias.esner@pirati.cz.
 
-Nabídky budou přijímány do 30.4.2017.
+Nabídky budou přijímány do 26.05.2017.
 
 Podáním nabídky vyjadřujete souhlas s [pravidly výběru](pravidla.md) dodavatelů.
 
@@ -79,4 +79,4 @@ Cílem tohoto výběrového řízení je doporučit ekonomicky nejvýhodnější
 
 Hodnoticí komise je složena ze tří členů finančního odboru: Jaromíra Beránka, Tobiase Esnera a Vojtěcha Pikala, náhradníkem je Jakub Michálek
 
-Vítězná nabídka bude vybrána do 15.5.2017
+Vítězná nabídka bude vybrána do 09.06.2017
