@@ -69,6 +69,7 @@ Hodnoticími kritérii jsou:
 * **cena** - 40% váha (při ceně 10.000 Kč nabídka oceněna 5 body, každých 500 Kč úspory znamená 1 bod navíc, každých 500 Kč navýšení 1 bod dolů)
 * **naplnění požadavků**, rozsah a funkce online přístupu a variabilita nastavení - 30% váha (bodové hodnocení udělí komise)
 * SLA a **dostupnost** kontaktní osoby - 30% váha (bodové hodnocení udělí komise)
+
 Hodnocené nabídky mohou v každé ze tří oblastí získat 0 až 20 bodů. Bodové hodnoty se následně vynásobí procentuálními vahami a vítěznou se stává nabídka s nejvyšším celkovým bodovým součtem. Nejvyšším možným hodnocením nabídky je 20 bodů.
 
 Hodnotící komise je oprávněna vyřadit nabídku, která nesplňuje některý požadavek.
