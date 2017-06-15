@@ -13,4 +13,4 @@ Po osobním setkání a pohovoru se zástupci zbývajících dvou dodavatelů, s
 
 Vzhledem k tomu, že nabídka společnosti Alvarium současně splnila všechny požadavky zadavatele, hodnoticí komise doporučuje společnost Alvarium s.r.o. vyhlásit vítězem výběrového řízení a podepsat s ní smlouvu o zajištění účetních služeb a systému transparentního účetnictví. Součástí smlouvy bude tříměsíční lhůta pro dodání systému transparentního účetnictví v minimální funkční verzi a pro ověření schopnosti plnění smluvených SLA.
 
-Proti vyhlášení výsledku výběrového řízení lze podat stížnost [https://wiki.pirati.cz/kk/start](kontrolní komisi) strany ve lhůtě do 10 dnů od vyhlášení výsledku výběrového řízení.
+Proti vyhlášení výsledku výběrového řízení lze podat stížnost [kontrolní komisi](https://wiki.pirati.cz/kk/start) strany ve lhůtě do 10 dnů od vyhlášení výsledku výběrového řízení.
